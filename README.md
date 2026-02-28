@@ -1,5 +1,5 @@
-CS-305 Software Security: Project Two
-=========================------------
+**CS-305 Software Security: Project Two**
+
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 - The client, Artemis Financial, is a monetary consulatation firm that develops financial plans for clients, such as investment, savings, and insurance packages. The solution that Artemis Financial required was the development of a secure web portal that could allow clients to access their private account info online. 
 
